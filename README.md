@@ -24,7 +24,8 @@ This is to be used to check the weather for any upcoming trips or your own city.
 
 ## Credits
 
-This project was completed by me with the help of a friend who worked on this project a couple years ago. He was able to help me refactor my code to correctly display the five day forecast which was driving me crazy. also used chatgpt to help with the five day forecast issue.
+This project was completed by me with the help of a friend who worked on this project a couple years ago. He was able to help me refactor my code to correctly display the five day forecast which was driving me crazy. also used chatgpt to help with the five day forecast issue. Specifically this line of code below
+const forecast = data.list.filter(item => item.dt_txt.includes("12:00:00")); 
 
 ## License
 
