@@ -18,6 +18,7 @@ No installation required
 ## Usage
 
 This is to be used to check the weather for any upcoming trips or your own city.
+![weatherscreeshot](https://github.com/MontysMachine/weather-app/assets/152040943/e5305077-6302-457f-b6f7-da847d84a520)
 
 
 
