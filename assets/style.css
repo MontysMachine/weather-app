@@ -1,6 +1,19 @@
-*{
-    padding: 0;
-    margin: 0;
+.forecast {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+  
+.forecast-day {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+  
+#searchHistory button {
+    margin: 5px;
 }
 
 
